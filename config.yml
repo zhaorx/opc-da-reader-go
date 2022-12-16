@@ -1,7 +1,7 @@
 # 接口url
 dataUrl: http://127.0.0.1:10011/resource
 # 周期
-interval: 10000
+interval: 60000
 # 保存数据接口
 pushUrl: http://localhost:6666/gas/add
 # 油田

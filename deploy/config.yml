@@ -1,0 +1,11 @@
+# 接口url
+dataUrl: http://127.0.0.1:10011/resource
+# 周期
+interval: 60000
+# 保存数据接口
+pushUrl: http://11.53.59.125:6666/gas/add
+# 油田
+region: liaohe
+# 点位单位表
+unitmap:
+  模拟器示例.函数.Ramp8: 'MPa'

@@ -1,0 +1,6 @@
+1. 所有文件解压至opc服务器上的部署目录（不能在其他机器上）
+2. clsid和opc-da版本, 在config/classid.txt中配置
+3. 点位号在config/tags.txt配置, 一个点位一行
+4. 存取数据接口/周期/region/点位单位表 在config.yml中配置
+2. 运行opc-client-httpsvc.exe
+3. 运行opcda_reader.exe
